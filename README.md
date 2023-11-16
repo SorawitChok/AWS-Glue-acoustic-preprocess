@@ -15,3 +15,4 @@ The dataset use in this project can be derived from [Culture-Aware Music Recomme
 
 ## Copyright
 Copyright (c) 2023 Sorawit Chokphantavee and Sirawit Chokphantavee
+![WHR-job](https://github.com/SorawitChok/AWS-Glue-data-preprocess/assets/52538051/3f0c7283-924b-401b-959f-b1cf8be8fbbd)
